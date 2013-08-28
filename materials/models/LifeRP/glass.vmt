@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/LifeRP/glass"
+	"$nocull"	1
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$translucent" 1
+	"$alpha"	1
+	"$bumpmap" "models/LifeRP/glassnorm"
+	"$normalmapalphaenvmapmask" "1"             
+
+}

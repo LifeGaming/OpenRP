@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+               "$basetexture" "models/LifeRP/lockpickset_diffuse"
+                "$normalmapalphaenvmapmask" "1"
+                "$bumpmap" "models/LifeRP/lockpickset_specular"
+                 "$envmap" "env_cubemap" "$envmaptint" "[ 0.8 0.8 0.8]" 
+}

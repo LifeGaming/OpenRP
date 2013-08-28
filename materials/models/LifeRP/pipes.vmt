@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/LifeRP/pipes_diffuse"	
+                "$bumpmap" "models/LifeRP/pipes_spec"
+                  "$phongexponenttexture" "models/LifeRP/pipes_spec"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "0.9"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "1.25"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+
+
+}

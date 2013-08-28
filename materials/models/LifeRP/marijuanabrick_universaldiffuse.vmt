@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/LifeRP/marijuanabrick_universaldiffuse"
+                "$bumpmap" "models/LifeRP/marijuanabrick_universalnorm"
+                 "$phongexponenttexture" "models/LifeRP/marijuanabrick_universalnorm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.75"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+
+
+}
+

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/LifeRP/guncase_bottom_diffuse"	
+                "$bumpmap" "models/LifeRP/guncase_bottom_norm"
+                  "$phongexponenttexture" "models/LifeRP/guncase_bottom_norm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "1"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/LifeRP/bulb_on"	
+	"$selfillum" "1"
+}

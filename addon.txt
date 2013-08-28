@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"LifeRP Content"
+	"version"	"1.0"
+	"up_date"	"17-08-2013"
+	"author_name"	"LifeRP"
+	"author_email"	""
+	"info"		"Content for LifeRP gamemode"
+}
